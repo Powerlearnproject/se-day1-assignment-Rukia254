@@ -22,7 +22,8 @@ List and briefly explain the phases of the Software Development Life Cycle.
 7)Maintenance- this is where the software is well monitored, by fixing and regular updated, to make it remain functional.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+waterfall methodology involves thorough planning and execution of the predetermined stages whereby each phase must be completed before moving to the next phase ,waterfall methodology is used when requirements of the project are clearly understood and are unlikely to change, while agile methodology promotes ongoing collaboration by emphasizing contious feedback and adaption, used when project requirement are not fully  understood and are likely to change.
+waterfall methodology is appropriate in senarios like developing software for finance or even healthcare ,where strict documentation are required while agile methodology is appropriate in senario like developing mobile where frequent updates are required due to demand in the market.  
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
