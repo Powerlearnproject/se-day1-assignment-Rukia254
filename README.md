@@ -5,10 +5,12 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+software Engineering is the systematic application of engineering principles, method and tools to develop and maintain high quality software systems. The software Engineering builds a high quality software system that meets the user needs and perform well while managing risks and costs.It helps advance the technology industry by providing structured, efficient,effective methods for software development.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+1)The emergence Agile Methodologies- in 2001s,the event named publication of the Agile Manifesto, created by a group of software developers seeking to address the limitation of traditional methodologies like waterfall.
+2)Introduction of object oriented paradigm- In 1980s, Bertrand Meyer, introduced an event called publication of object oriented software Construction and popularization of languages like C++. it allows for modelling software in terms of real world objects and their interaction leading to reusable and maintainable codes
+3)Introduction of waterfall model- In 1970, Wiston W. Royce introduced an event called Publication of Managing Development of Large Software System, waterfall model, it consists of phases such as the analysis, system design, implementation,testing, deployment and maintenance for managing software projects.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
