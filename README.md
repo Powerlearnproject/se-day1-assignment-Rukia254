@@ -13,7 +13,13 @@ Identify and describe at least three key milestones in the evolution of software
 3)Introduction of waterfall model- In 1970, Wiston W. Royce introduced an event called Publication of Managing Development of Large Software System, waterfall model, it consists of phases such as the analysis, system design, implementation,testing, deployment and maintenance for managing software projects.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+1)Planning- resources needed, cost estimation and timeframe are estimated.it ensures that the project is viable and the stakeholder's need are clearly understood.
+2)Requirement analysis- it involves gathering of detailed information from the stakeholders to know what the software must achieve, that is the functionality of the software.
+3)Design- in this phase, the design of the system is created which include the overall system structure,models, algorithm and even the user interface.
+4)Implementation- this is where the actual coding is done,code is written with the aim of producing a working system that meets the design requirements.
+5)Testing- in this phase,verification of the software function is done, to see if it works as intended, if not fixing is done before deployment.
+6)Deployment-the software is implemented in that it becomes available to users, making it operational for the intended purpose.
+7)Maintenance- this is where the software is well monitored, by fixing and regular updated, to make it remain functional.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
